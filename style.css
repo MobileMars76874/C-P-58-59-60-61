@@ -1,0 +1,66 @@
+body{
+text-align: center;
+background-color: deepskyblue;
+}
+
+#me{
+width: 200px;
+border-radius: 100%
+}
+
+#main{
+background:linear-gradient(#a7d3fc 0%,#11f58b 100%)
+}
+
+#name{
+color: royalblue;
+}
+
+#h_n{
+color: royalblue
+}
+
+#a_c{
+color: darkcyan;
+}
+
+hr{
+border-color: aqua
+}
+
+.menu{
+z-index: 10;
+width: 100%
+position: fixed;
+background-color: cyan;
+}
+
+.links{
+display: inline;
+margin-left: 30px;
+color: aqua;
+text-decoration: none;
+}
+
+.a{
+color: royalblue;
+}
+
+.link:hover{
+text-decoration-color: darkgoldenrod;
+}
+
+.book{
+width: 300;
+height: 500;
+}
+
+.M_Y_I{
+width: 300;
+height: 300;
+}
+
+.INS{
+width: 300;
+height: 300;
+}
