@@ -64,3 +64,10 @@ height: 300;
 width: 300;
 height: 300;
 }
+
+.aaaa{
+height: 300px;
+width: 600px;
+outline-color: cadetblue;
+display: inline-block;
+}
